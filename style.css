@@ -1,0 +1,7 @@
+body {
+    background-image: url("forest.jpg");
+}
+
+#bigguy {
+    position: absolute;
+}
